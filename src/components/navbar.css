@@ -1,0 +1,29 @@
+#navcon{
+    width: 100%;
+    height: 60px;
+    border: 1px solid black;
+}
+#home{
+    text-decoration: none;
+    color: black;
+}
+#navcon h1{
+    float: left;
+    margin-top: 4px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 10px;
+}
+#navcon p{
+    float: right;
+    font-weight: 700;
+    font-size: larger;
+    cursor: pointer;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-right: 50px;
+}
+#create{
+    color: rgb(94, 94, 240);
+}
+#logout{
+    color: rgb(255, 68, 0);
+}

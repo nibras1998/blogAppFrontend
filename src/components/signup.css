@@ -1,0 +1,42 @@
+.signupcontainer{
+    width: 300px;
+    height: 300px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    border: 10px solid rgb(109,154,196);
+    margin: auto;
+    text-align: left;
+    margin-top: 100px;
+}
+#signhead{
+    margin-left: 30px;
+    font-weight: bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(96, 91, 91);
+}
+label{
+    margin-left: 30px;
+    color: rgb(76, 74, 74);
+    font-weight: 500;
+}
+input{
+    margin-top: 5px;
+    margin-left: 30px;
+    margin-bottom: 15px;
+    width: 200px;
+    height: 20px;
+}
+button{
+    margin-left: 30px;
+    width: 210px;
+    border-radius: 5px;
+    color: white;
+    background-color: rgb(237,86,132);
+    border: none;
+    height: 28px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: rgb(192, 38, 84);
+}

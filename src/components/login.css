@@ -1,0 +1,63 @@
+.logincontainer{
+    width: 300px;
+    height: 315px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    border: 10px solid rgb(109,154,196);
+    margin: auto;
+    text-align: left;
+    margin-top: 100px;
+}
+#loginhead{
+    margin-left: 30px;
+    font-weight: bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(96, 91, 91);
+}
+label{
+    margin-left: 30px;
+    color: rgb(76, 74, 74);
+    font-weight: 500;
+}
+input{
+    margin-top: 5px;
+    margin-left: 30px;
+    margin-bottom: 15px;
+    width: 200px;
+    height: 20px;
+}
+button{
+    margin-left: 30px;
+    width: 210px;
+    border-radius: 5px;
+    color: white;
+    background-color: rgb(237,86,132);
+    border: none;
+    height: 28px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: rgb(192, 38, 84);
+}
+#check{
+    width: 15px;
+    margin-top: 2px;
+}
+#rem{
+    margin-left: 2px;
+    margin-top: 0;
+    margin: 0;
+    font-size: medium;
+    font-weight: 400;
+}
+#forgot{
+    font-size: small;
+    margin: 0;
+    margin-left: 140px;
+}
+#need{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 40px;
+}

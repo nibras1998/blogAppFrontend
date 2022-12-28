@@ -1,0 +1,28 @@
+.blogitem{
+    width: 50%;
+    margin: auto;
+    height: auto;
+    margin-top: 30px;
+    display: flex;
+    border: 1px dotted black;
+    overflow: hidden;
+}
+.imgcontainer{
+    width: 150px;
+  
+    height: 170px;
+}
+.titledesc h2{
+    color: rgb(82, 82, 192);
+    margin-bottom: 2px;
+    margin-left: 20px;
+}
+.titledesc p{
+    margin-left: 10px;
+    font-size: large;
+    font-weight: 600;
+}
+img{
+    width: 100%;
+    height: 100%;
+}
